@@ -1,0 +1,119 @@
+[
+    {
+    
+    "name":"ios",
+    "price":66,
+    "category": "toy",
+    "stars":4.5,
+    "reviews": 77,
+    "stock":66,
+    "company": "ios",
+    "featured": true,
+    "display":true,
+    "description":"this is epic description",
+    "colors":[
+      "#7890",
+      "#7890",
+      "#7890"
+    ],
+    "image":[
+
+      {
+        "id": "randomid1",
+        "width": 1080,
+        "height": 650,
+        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "prod-1.png",
+        "size": 1080,
+        "type": "image/png"
+        },
+        {
+        "id": "randomid2",
+        "width": 1080,
+        "height": 650,
+        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "prod-2.png",
+        "size": 1080,
+        "type": "image/png"
+        },
+        {
+        "id": "randomid3",
+        "width": 1080,
+        "height": 650,
+        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "prod-3.png",
+        "size": 1080,
+        "type": "image/png"
+        },
+        {
+        "id": "randomid4",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "prod-4.png",
+        "size": 1080,
+        "type": "image/png"
+        }
+
+    ]
+    },
+    {
+    
+      "name":"deev",
+      "price":676,
+      "category": "ga,e",
+      "stars":4.2,
+      "reviews": 17,
+      "stock":16,
+      "company": "isos",
+      "featured": true,
+      "display":true,
+      "description":"this is epic description",
+      "colors":[
+        "#7890",
+        "#7890",
+        "#7890"
+      ],
+      "image":[
+
+        {
+          "id": "randomid1",
+          "width": 1080,
+          "height": 650,
+          "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "filename": "prod-1.png",
+          "size": 1080,
+          "type": "image/png"
+          },
+          {
+          "id": "randomid2",
+          "width": 1080,
+          "height": 650,
+          "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "filename": "prod-2.png",
+          "size": 1080,
+          "type": "image/png"
+          },
+          {
+          "id": "randomid3",
+          "width": 1080,
+          "height": 650,
+          "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "filename": "prod-3.png",
+          "size": 1080,
+          "type": "image/png"
+          },
+          {
+          "id": "randomid4",
+          "width": 1080,
+          "height": 650,
+          "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "filename": "prod-4.png",
+          "size": 1080,
+          "type": "image/png"
+          }
+
+      ]
+      }
+      
+  ]
