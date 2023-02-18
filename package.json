@@ -1,4 +1,3 @@
-
 {
   "name": "thapaapi",
   "version": "1.0.0",
@@ -12,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.7.2"
