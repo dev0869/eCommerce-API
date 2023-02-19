@@ -1,16 +1,16 @@
 [
     {
     
-    "name":"ios",
-    "price":66,
-    "category": "toy",
+    "name":"Assassin's Creed I & II",
+    "price":999,
+    "category": "Video games",
     "stars":4.5,
-    "reviews": 77,
-    "stock":66,
-    "company": "ios",
+    "reviews": 477,
+    "stock":20,
+    "company": "Activision",
     "featured": true,
     "display":true,
-    "description":"this is epic description",
+    "description":"Unleash your inner gamer with this amazing gaming CD. With a variety of game genres to choose from, including sports, racing, and first-person shooters, it promises to keep you hooked and entertained for hours on end.This gaming CD is the perfect solution for those looking for a comprehensive gaming experience. With a vast collection of games and a user-friendly interface, it is suitable for gamers of all skill levels.Indulge in a world of exciting and challenging games with this gaming CD. Its impressive collection of games includes the latest and greatest titles that are sure to keep you engaged and entertained.Get your hands on this exclusive gaming CD and experience the best gaming has to offer. With stunning graphics, advanced gameplay, and a wide range of game genres, it is the perfect choice for avid gamers and newbies alike.",
     "colors":[
       "#7890",
       "#7890",
@@ -22,7 +22,7 @@
         "id": "randomid1",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "http://ecx.images-amazon.com/images/I/51i1Xy1BxHL.jpg",
         "filename": "prod-1.png",
         "size": 1080,
         "type": "image/png"
@@ -31,7 +31,7 @@
         "id": "randomid2",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "http://ecx.images-amazon.com/images/I/616OOnZv-5L.jpg",
         "filename": "prod-2.png",
         "size": 1080,
         "type": "image/png"
@@ -40,7 +40,7 @@
         "id": "randomid3",
         "width": 1080,
         "height": 650,
-        "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "http://ecx.images-amazon.com/images/I/51Ba653B6ZL.jpg",
         "filename": "prod-3.png",
         "size": 1080,
         "type": "image/png"
@@ -49,7 +49,7 @@
         "id": "randomid4",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "http://ecx.images-amazon.com/images/I/51DeQeU7MiL.jpg",
         "filename": "prod-4.png",
         "size": 1080,
         "type": "image/png"
@@ -57,18 +57,19 @@
 
     ]
     },
+
     {
     
-      "name":"deev",
-      "price":676,
-      "category": "ga,e",
+      "name":"Call of Duty: Black Ops II - PC",
+      "price":1699,
+      "category": "Video games",
       "stars":4.2,
-      "reviews": 17,
-      "stock":16,
-      "company": "isos",
+      "reviews": 1899,
+      "stock":26,
+      "company": "Activision",
       "featured": true,
       "display":true,
-      "description":"this is epic description",
+      "description":"An all-new Call of Duty - Black Ops storyline featuring new characters and returning characters,Unique single-player campaign that contains two time periods linked by characters and their actions,Special Strike Force missions, in which the players action affect the outcome of gameplay and the overall campaign,Variety of multiplayer modes and play options",
       "colors":[
         "#7890",
         "#7890",
@@ -80,7 +81,7 @@
           "id": "randomid1",
           "width": 1080,
           "height": 650,
-          "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "url": "http://ecx.images-amazon.com/images/I/416xeHGXbUL.jpg",
           "filename": "prod-1.png",
           "size": 1080,
           "type": "image/png"
@@ -89,7 +90,7 @@
           "id": "randomid2",
           "width": 1080,
           "height": 650,
-          "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "url": "http://ecx.images-amazon.com/images/I/51N7GT9BQ%2BL.jpg",
           "filename": "prod-2.png",
           "size": 1080,
           "type": "image/png"
@@ -98,7 +99,7 @@
           "id": "randomid3",
           "width": 1080,
           "height": 650,
-          "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "url": "http://ecx.images-amazon.com/images/I/517S6KnRpOL.jpg",
           "filename": "prod-3.png",
           "size": 1080,
           "type": "image/png"
@@ -107,13 +108,606 @@
           "id": "randomid4",
           "width": 1080,
           "height": 650,
-          "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "url":"http://ecx.images-amazon.com/images/I/51UfXhiC61L.jpg",
           "filename": "prod-4.png",
           "size": 1080,
           "type": "image/png"
           }
 
       ]
-      }
+      },
+
+
+      {
+    
+        "name":"Sony Ps5",
+        "price":1699,
+        "category": "Pc",
+        "stars":4.4,
+        "reviews": 8899,
+        "stock":10,
+        "company": "Sony",
+        "featured": true,
+        "display":true,
+        "description":"Play. Stream. Watch. Amazing Value at a Low Price: Play the largest highest rated games library, Stream services like Amazon Instant Video, Netflix, and Hulu and Watch HD Blu-ray on the PlayStation 3 12GB System for $199.,This Generation's Largest Exclusive Games Library: Dig into this platform generation's most extensive library of exclusive games, including popular titles like LittleBigPlanet and award-winning AAA series such as God of War and Uncharted.,Play Online for no Additional Fee: Use an online connection to access PlayStation Network's free* multiplayer. Bluetooth EDR capability makes communication easy and clear when you're teaming up with friends *User is responsible for internet access fees,Enjoy Blu-Ray Movies Instantly: The built in Blu-Ray disc player brings your movies and shows to life in with stunning visual and sound quality,Download Your Apps for Free*: Stream your favorite video services like Amazon Instant Video, Netflix and Hulu Plus for no additional fee. Sign up for streaming app subscriptions if you haven't already and enjoy instant access *User is responsible for internet access fees",
+        "colors":[
+          "#7890",
+          "#7890",
+          "#7890"
+        ],
+        "image":[
+  
+          {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "http://ecx.images-amazon.com/images/I/41Ev0ryNToL.jpg",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+            },
+            {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": "http://ecx.images-amazon.com/images/I/41omR-LTnaL.jpg",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+            },
+            {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": "http://ecx.images-amazon.com/images/I/41xAAzZeMbL.jpg",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+            },
+            {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url":"http://ecx.images-amazon.com/images/I/31NhIzIMrUL.jpg",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+            }
+  
+        ]
+        },
+        
+      {
+    
+        "name":"PlayStation 4 ",
+        "price":2699,
+        "category": "Pc",
+        "stars":4.6,
+        "reviews": 6479,
+        "stock":17,
+        "company": "Sony",
+        "featured": true,
+        "display":true,
+        "description": "The official release date for the PlayStation 4 is November 15, 2013. Confirmed orders will arrive at your shipping address based on the shipping speed selected.,PS4 enables the greatest game developers in the world to unlock their creativity and push the boundaries of play through a platform that is tuned specifically to their ,Engage in endless personal challenges between you and your community, and share your epic moments for the world t,The customer will receive the China Rising Expansion Pack with his order.  Code and instructions for accessing the expansion pack will be included in the product packaging,Gamers can share their epic triumphs by hitting the \"SHARE button\" on the controller, scan through the last few minutes of gameplay, tag it and return to the game;  With PS Vita, gamers will be able to seamlessly play PS4 games on the beautiful 5-inch display over Wi-Fi in a local environment",
+        "colors":[
+          "#7890",
+          "#7890",
+          "#7890"
+        ],
+        "image":[
+  
+          {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "http://ecx.images-amazon.com/images/I/41dn1krPyAL.jpg",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+            },
+            {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": "http://ecx.images-amazon.com/images/I/41Su-%2BvWPRL.jpg",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+            },
+            {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": "http://ecx.images-amazon.com/images/I/41nkwHrns7L.jpg",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+            },
+            {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url":"http://ecx.images-amazon.com/images/I/41kxtajfNZL.jpg",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+            }
+  
+        ]
+        },
+        
+        {
+    
+          "name":"MBA e-book",
+          "price":299,
+          "category": "E-Books",
+          "stars":3.6,
+          "reviews": 16479,
+          "stock":5,
+          "company": "Kindle Edition",
+          "featured": true,
+          "display":true,
+          "description":"With so many great resources on the web available for SMEs it's difficult to find the marketing solutions that will work. <br /><br />Sarah-Jane White has collated the best ones in this ebook for you to use as a guide, inspirational tool and if you just do one of the tips, once a week, you should increase your company's visibility both on and offline in no time!",
+
+          "colors":[
+            "#7890",
+            "#7890",
+            "#7890"
+          ],
+          "image":[
+    
+            {
+              "id": "randomid1",
+              "width": 1080,
+              "height": 650,
+              "url": "http://ecx.images-amazon.com/images/I/51qwwiklINL.jpg",
+              "filename": "prod-1.png",
+              "size": 1080,
+              "type": "image/png"
+              },
+              {
+              "id": "randomid2",
+              "width": 1080,
+              "height": 650,
+              "url": "http://ecx.images-amazon.com/images/I/41Ce3nZb0CL.jpg",
+              "filename": "prod-2.png",
+              "size": 1080,
+              "type": "image/png"
+              },
+              {
+              "id": "randomid3",
+              "width": 1080,
+              "height": 650,
+              "url": "http://ecx.images-amazon.com/images/I/41y8TgWDWkL.jpg",
+              "filename": "prod-3.png",
+              "size": 1080,
+              "type": "image/png"
+              },
+              {
+              "id": "randomid4",
+              "width": 1080,
+              "height": 650,
+              "url":"http://ecx.images-amazon.com/images/I/51jX9F1kXXL.jpg",
+              "filename": "prod-4.png",
+              "size": 1080,
+              "type": "image/png"
+              }
+    
+          ]
+          },
+          {
+    
+            "name":"Sony WF-1003",
+            "price":19299,
+            "category": "HeadPhones",
+            "stars":4.9,
+            "reviews": 17479,
+            "stock":5,
+            "company": "Sony",
+            "featured": true,
+            "display":true,
+            "description":"The matte black Sony Wf-1003 crossfade LP2 special edition from V-MODA include the gunmetal shield kit, an exoskeleton case with carabiner, Kevlar-reinforced SpeakEasy 1-button mic cable, a Kevlar-reinforced extended audio cable, a 1/4. adapter and a cleaning cloth. It can be used for audio playback, as well as for gaming or in VoIP applications.",
+  
+            "colors":[
+              "#7890",
+              "#7890",
+              "#7890"
+            ],
+            "image":[
+      
+              {
+                "id": "randomid1",
+                "width": 1080,
+                "height": 650,
+                "url": "https://m.media-amazon.com/images/I/21pGfX7r8oL._SY300_SX300_QL70_FMwebp_.jpg",
+                "filename": "prod-1.png",
+                "size": 1080,
+                "type": "image/png"
+                },
+                {
+                "id": "randomid2",
+                "width": 1080,
+                "height": 650,
+                "url": "https://m.media-amazon.com/images/I/61JeQsaMV8S._SX425_.jpg",
+                "filename": "prod-2.png",
+                "size": 1080,
+                "type": "image/png"
+                },
+                {
+                "id": "randomid3",
+                "width": 1080,
+                "height": 650,
+                "url": "https://m.media-amazon.com/images/I/71zPb+U1ybL._AC_UF640,640_SR640,640_.jpg",
+                "filename": "prod-3.png",
+                "size": 1080,
+                "type": "image/png"
+                },
+                {
+                "id": "randomid4",
+                "width": 1080,
+                "height": 650,
+                "url":"https://m.media-amazon.com/images/I/51BcwAyqVZL._AC_UF640,640_SR640,640_.jpg",
+                "filename": "prod-4.png",
+                "size": 1080,
+                "type": "image/png"
+                }
+      
+            ]
+            },
+            {
+    
+              "name":"Sony V-Moda Crossfade",
+              "price":12999,
+              "category": "HeadPhones",
+              "stars":4.1,
+              "reviews": 316479,
+              "stock":52,
+              "company": "Sony",
+              "featured": true,
+              "display":true,
+              "description":"Unboxing experience was awesome. First experience felt its built and sound just perfect. Its for listeners who love bass so if u love bass in every type of music then this is just perfect. For Ghazals, ballads, country music etc this wouldnt be a perfect choice. This has a very effective 3D surrond stage and sound s superb for Rock, lounge, EDM, Rave and Trance. I wanted all rounder and expected this to do the job but after hearing i told myself will keep for the music its made for. Well done V Moda and Ferrari Video for getting this to us for a very decent price. Am sure these will get better after few weeks of burnin.",
+    
+              "colors":[
+                "#7890",
+                "#7890",
+                "#7890"
+              ],
+              "image":[
+        
+                {
+                  "id": "randomid1",
+                  "width": 1080,
+                  "height": 650,
+                  "url": "https://m.media-amazon.com/images/I/51Tumd3AZ9L._SX425_.jpg",
+                  "filename": "prod-1.png",
+                  "size": 1080,
+                  "type": "image/png"
+                  },
+                  {
+                  "id": "randomid2",
+                  "width": 1080,
+                  "height": 650,
+                  "url": "https://m.media-amazon.com/images/I/417dICDYqvL._SX425_.jpg",
+                  "filename": "prod-2.png",
+                  "size": 1080,
+                  "type": "image/png"
+                  },
+                  {
+                  "id": "randomid3",
+                  "width": 1080,
+                  "height": 650,
+                  "url": "https://m.media-amazon.com/images/I/61f+WTbtuuL._SX425_.jpg",
+                  "filename": "prod-3.png",
+                  "size": 1080,
+                  "type": "image/png"
+                  },
+                  {
+                  "id": "randomid4",
+                  "width": 1080,
+                  "height": 650,
+                  "url":"https://m.media-amazon.com/images/I/51qAURyL2kL._SX425_.jpg",
+                  "filename": "prod-4.png",
+                  "size": 1080,
+                  "type": "image/png"
+                  }
+        
+              ]
+              },
+              {
+    
+                "name":"Apple iPhone 13 (128GB)",
+                "price":69999,
+                "category": "Electronics",
+                "stars":4.6,
+                "reviews": 780909,
+                "stock":17,
+                "company": "Apple",
+                "featured": true,
+                "display":true,
+                "description":"The iPhone 13 Pro has a 6.06 inch (154 mm) (marketed as 6.1-inch (15 cm)) OLED display with a resolution of 2532 × 1170 pixels (2.9 megapixels) at 460 PPI, while the iPhone 13 Pro Max has a 6.68 inch (170 mm) (marketed as 6.7-inch (17 cm)) OLED display with a resolution of 2778 × 1284 pixels (3.5 megapixels) at 458 PPI. Both models have the Super Retina XDR OLED display with improved typical brightness up to 1,000 nits from 800 nits, and max brightness up to 1,200 nits, and for the first time in an iPhone, a variable 10–120 Hz ProMotion display, which can also go as low as 10 Hz to preserve battery and the term was previously used on the iPad Pro (2nd Generation) and later models",
+      
+                "colors":[
+                  "#7890",
+                  "#7890",
+                  "#7890"
+                ],
+                "image":[
+          
+                  {
+                    "id": "randomid1",
+                    "width": 1080,
+                    "height": 650,
+                    "url": "https://m.media-amazon.com/images/I/61VuVU94RnL._SX569_.jpg",
+                    "filename": "prod-1.png",
+                    "size": 1080,
+                    "type": "image/png"
+                    },
+                    {
+                    "id": "randomid2",
+                    "width": 1080,
+                    "height": 650,
+                    "url": "https://m.media-amazon.com/images/I/61cecOpZrxL._SX569_.jpg",
+                    "filename": "prod-2.png",
+                    "size": 1080,
+                    "type": "image/png"
+                    },
+                    {
+                    "id": "randomid3",
+                    "width": 1080,
+                    "height": 650,
+                    "url": "https://m.media-amazon.com/images/I/71SfvBP1gBL._SX569_.jpg",
+                    "filename": "prod-3.png",
+                    "size": 1080,
+                    "type": "image/png"
+                    },
+                    {
+                    "id": "randomid4",
+                    "width": 1080,
+                    "height": 650,
+                    "url":"https://m.media-amazon.com/images/I/818a-pz0BvL._SX569_.jpg",
+                    "filename": "prod-4.png",
+                    "size": 1080,
+                    "type": "image/png"
+                    }
+          
+                ]
+                },
+                {
+    
+                  "name":"Sony Alpha ILCE-7M3",
+                  "price":145299,
+                  "category": "Electronics",
+                  "stars":4.8,
+                  "reviews": 10909,
+                  "stock":10,
+                  "company": "Sony",
+                  "featured": true,
+                  "display":true,
+                  "description":"Absolute beast of a machine. Amazing auto focus and the focus peaking for manual focus really helps. The eye detection is something new for me. It seems to work only in AF-C mode and not the single shutter mode. Very useful to get tack sharp focus on eyes using fast primes wide open.Apart from photography I discovered it is really amazing for videography as well. You can get 30p 4k. Wish it was 60p for slight slo mo stuff. But you can get that in full HD. Image stabilization is great for photography. For videos with camera movements you need a gimbal or something like that.",
+        
+                  "colors":[
+                    "#7890",
+                    "#7890",
+                    "#7890"
+                  ],
+                  "image":[
+            
+                    {
+                      "id": "randomid1",
+                      "width": 1080,
+                      "height": 650,
+                      "url": "https://m.media-amazon.com/images/I/713xBPyXC-L._SX425_.jpg",
+                      "filename": "prod-1.png",
+                      "size": 1080,
+                      "type": "image/png"
+                      },
+                      {
+                      "id": "randomid2",
+                      "width": 1080,
+                      "height": 650,
+                      "url": "https://m.media-amazon.com/images/I/81vQst9IHDL._SX425_.jpg",
+                      "filename": "prod-2.png",
+                      "size": 1080,
+                      "type": "image/png"
+                      },
+                      {
+                      "id": "randomid3",
+                      "width": 1080,
+                      "height": 650,
+                      "url": "https://m.media-amazon.com/images/I/81iF6ef+A3L._SX425_.jpg",
+                      "filename": "prod-3.png",
+                      "size": 1080,
+                      "type": "image/png"
+                      },
+                      {
+                      "id": "randomid4",
+                      "width": 1080,
+                      "height": 650,
+                      "url":"https://m.media-amazon.com/images/I/711r5gfwzFL._SX425_.jpg",
+                      "filename": "prod-4.png",
+                      "size": 1080,
+                      "type": "image/png"
+                      }
+            
+                  ]
+                  },
+                  {
+    
+                    "name":"Apple iPhone 14 Pro 128GB Deep Purple",
+                    "price":125299,
+                    "category": "Electronics",
+                    "stars":4.2,
+                    "reviews": 1089909,
+                    "stock":30,
+                    "company": "Apple",
+                    "featured": true,
+                    "display":true,
+                    "description":"The software is extremely smooth and stable. Battery life is good and not too exceptional. It’s certainly not as good as 13 Pro Max. The battery is currently lasting me 24 hours instead of 18 hours on my Android. I’d say the 3200mAh from Apple is comparable to a 5500mAh Android battery. The 48MP camera is sharp and fast. The dynamic island is extremely helpful in many situations that involve multitasking. I use it very frequently during calls. The screen is bright and looks very clear even in direct sunlight. Haptics are very unique and delightful. Face id is much easier than a fingerprint scanner. Gone are the days of wiping your fingers. The Safari password manager can save passwords for all sites and authenticate directly with Face Id. The size of the phone 6.1 inch is very comfortable for one hand use and one needn’t shuffle around the phone for one hand use like on 6.7 inch phones.Where Apple really shines is with the ecosystem. ",
+          
+                    "colors":[
+                      "#7890",
+                      "#7890",
+                      "#7890"
+                    ],
+                    "image":[
+              
+                      {
+                        "id": "randomid1",
+                        "width": 1080,
+                        "height": 650,
+                        "url": "https://m.media-amazon.com/images/I/61HHS0HrjpL._SX569_.jpg",
+                        "filename": "prod-1.png",
+                        "size": 1080,
+                        "type": "image/png"
+                        },
+                        {
+                        "id": "randomid2",
+                        "width": 1080,
+                        "height": 650,
+                        "url": "https://m.media-amazon.com/images/I/61JprYdpMmL._SX569_.jpg",
+                        "filename": "prod-2.png",
+                        "size": 1080,
+                        "type": "image/png"
+                        },
+                        {
+                        "id": "randomid3",
+                        "width": 1080,
+                        "height": 650,
+                        "url": "https://m.media-amazon.com/images/I/9127kbNltTL._SX569_.jpg",
+                        "filename": "prod-3.png",
+                        "size": 1080,
+                        "type": "image/png"
+                        },
+                        {
+                        "id": "randomid4",
+                        "width": 1080,
+                        "height": 650,
+                        "url":"https://m.media-amazon.com/images/I/71dKjvLPkAL._SX569_.jpg",
+                        "filename": "prod-4.png",
+                        "size": 1080,
+                        "type": "image/png"
+                        }
+              
+                    ]
+                    },
+                    {
+    
+                      "name":"OnePlus Nord",
+                      "price":18999,
+                      "category": "Electronics",
+                      "stars":4.4,
+                      "reviews": 169909,
+                      "stock":80,
+                      "company": "OnePlus",
+                      "featured": true,
+                      "display":true,
+                      "description":"the least expensive category offering from One-plus, there are some small evident points that will get noticed. First thing is the confusing placement of the power button (and hence the finger sensor). Daily handling of the mobile phone feels a bit annoying with fingers locking/un-locking the phone while you try to handle it and place it into Your pockets. Although this is not a big problem, it is still something to think about",
+            
+                      "colors":[
+                        "#7890",
+                        "#7890",
+                        "#7890"
+                      ],
+                      "image":[
+                
+                        {
+                          "id": "randomid1",
+                          "width": 1080,
+                          "height": 650,
+                          "url": "https://m.media-amazon.com/images/I/71V--WZVUIL._SX466_.jpg",
+                          "filename": "prod-1.png",
+                          "size": 1080,
+                          "type": "image/png"
+                          },
+                          {
+                          "id": "randomid2",
+                          "width": 1080,
+                          "height": 650,
+                          "url": "https://m.media-amazon.com/images/I/61eXvcm9zrL._SX466_.jpg",
+                          "filename": "prod-2.png",
+                          "size": 1080,
+                          "type": "image/png"
+                          },
+                          {
+                          "id": "randomid3",
+                          "width": 1080,
+                          "height": 650,
+                          "url": "https://m.media-amazon.com/images/I/61pRq8L49ML._SX466_.jpg",
+                          "filename": "prod-3.png",
+                          "size": 1080,
+                          "type": "image/png"
+                          },
+                          {
+                          "id": "randomid4",
+                          "width": 1080,
+                          "height": 650,
+                          "url":"https://m.media-amazon.com/images/I/61vDLLvBnJL._SX466_.jpg",
+                          "filename": "prod-4.png",
+                          "size": 1080,
+                          "type": "image/png"
+                          }
+                
+                      ]
+                      },
+                      {
+    
+                        "name":"OnePlus 11 5G",
+                        "price":61999,
+                        "category": "Electronics",
+                        "stars":5.0,
+                        "reviews": 18904,
+                        "stock":20,
+                        "company": "OnePlus",
+                        "featured": true,
+                        "display":true,
+                        "description":"Got this on Day 1 and the phone looks good. It has infinity edges and looks sleeker than my previous OnePlus 7. Attaching the unboxing video - the charger adapter is huge and cable is thicker than before. The camera is just fine nothing too exciting about it. Would comment once I use more. The cover provided by one plus isn't transparent this time primarily cos the back panel of the phone is Matt and not metallic shiny like before.",
+              
+                        "colors":[
+                          "#7890",
+                          "#7890",
+                          "#7890"
+                        ],
+                        "image":[
+                  
+                          {
+                            "id": "randomid1",
+                            "width": 1080,
+                            "height": 650,
+                            "url": "https://m.media-amazon.com/images/I/61amb0CfMGL._SX466_.jpg",
+                            "filename": "prod-1.png",
+                            "size": 1080,
+                            "type": "image/png"
+                            },
+                            {
+                            "id": "randomid2",
+                            "width": 1080,
+                            "height": 650,
+                            "url": "https://m.media-amazon.com/images/I/71Mgi5phPNL._SX466_.jpg",
+                            "filename": "prod-2.png",
+                            "size": 1080,
+                            "type": "image/png"
+                            },
+                            {
+                            "id": "randomid3",
+                            "width": 1080,
+                            "height": 650,
+                            "url": "https://m.media-amazon.com/images/I/51tKzI3G0zL._SX466_.jpg",
+                            "filename": "prod-3.png",
+                            "size": 1080,
+                            "type": "image/png"
+                            },
+                            {
+                            "id": "randomid4",
+                            "width": 1080,
+                            "height": 650,
+                            "url":"https://m.media-amazon.com/images/I/51QVJveu+-L._SX466_.jpg",
+                            "filename": "prod-4.png",
+                            "size": 1080,
+                            "type": "image/png"
+                            }
+                  
+                        ]
+                        }
+      
       
   ]
