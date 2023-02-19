@@ -8,13 +8,13 @@
     "reviews": 477,
     "stock":20,
     "company": "Activision",
-    "featured": true,
+    "featured": false,
     "display":true,
     "description":"Unleash your inner gamer with this amazing gaming CD. With a variety of game genres to choose from, including sports, racing, and first-person shooters, it promises to keep you hooked and entertained for hours on end.This gaming CD is the perfect solution for those looking for a comprehensive gaming experience. With a vast collection of games and a user-friendly interface, it is suitable for gamers of all skill levels.Indulge in a world of exciting and challenging games with this gaming CD. Its impressive collection of games includes the latest and greatest titles that are sure to keep you engaged and entertained.Get your hands on this exclusive gaming CD and experience the best gaming has to offer. With stunning graphics, advanced gameplay, and a wide range of game genres, it is the perfect choice for avid gamers and newbies alike.",
     "colors":[
-      "#7890",
-      "#7890",
-      "#7890"
+      "#ff0000",
+      "#000000",
+      "#CDD0D0"
     ],
     "image":[
 
@@ -71,9 +71,9 @@
       "display":true,
       "description":"An all-new Call of Duty - Black Ops storyline featuring new characters and returning characters,Unique single-player campaign that contains two time periods linked by characters and their actions,Special Strike Force missions, in which the players action affect the outcome of gameplay and the overall campaign,Variety of multiplayer modes and play options",
       "colors":[
-        "#7890",
-        "#7890",
-        "#7890"
+        "#ff0000",
+        "#000000",
+        "#CDD0D0"
       ],
       "image":[
 
@@ -122,7 +122,7 @@
     
         "name":"Sony Ps5",
         "price":1699,
-        "category": "Pc",
+        "category": "PlayStaion",
         "stars":4.4,
         "reviews": 8899,
         "stock":10,
@@ -131,9 +131,9 @@
         "display":true,
         "description":"Play. Stream. Watch. Amazing Value at a Low Price: Play the largest highest rated games library, Stream services like Amazon Instant Video, Netflix, and Hulu and Watch HD Blu-ray on the PlayStation 3 12GB System for $199.,This Generation's Largest Exclusive Games Library: Dig into this platform generation's most extensive library of exclusive games, including popular titles like LittleBigPlanet and award-winning AAA series such as God of War and Uncharted.,Play Online for no Additional Fee: Use an online connection to access PlayStation Network's free* multiplayer. Bluetooth EDR capability makes communication easy and clear when you're teaming up with friends *User is responsible for internet access fees,Enjoy Blu-Ray Movies Instantly: The built in Blu-Ray disc player brings your movies and shows to life in with stunning visual and sound quality,Download Your Apps for Free*: Stream your favorite video services like Amazon Instant Video, Netflix and Hulu Plus for no additional fee. Sign up for streaming app subscriptions if you haven't already and enjoy instant access *User is responsible for internet access fees",
         "colors":[
-          "#7890",
-          "#7890",
-          "#7890"
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
         ],
         "image":[
   
@@ -181,18 +181,18 @@
     
         "name":"PlayStation 4 ",
         "price":2699,
-        "category": "Pc",
+        "category": "PlayStaion",
         "stars":4.6,
         "reviews": 6479,
         "stock":17,
         "company": "Sony",
-        "featured": true,
+        "featured": false,
         "display":true,
         "description": "The official release date for the PlayStation 4 is November 15, 2013. Confirmed orders will arrive at your shipping address based on the shipping speed selected.,PS4 enables the greatest game developers in the world to unlock their creativity and push the boundaries of play through a platform that is tuned specifically to their ,Engage in endless personal challenges between you and your community, and share your epic moments for the world t,The customer will receive the China Rising Expansion Pack with his order.  Code and instructions for accessing the expansion pack will be included in the product packaging,Gamers can share their epic triumphs by hitting the \"SHARE button\" on the controller, scan through the last few minutes of gameplay, tag it and return to the game;  With PS Vita, gamers will be able to seamlessly play PS4 games on the beautiful 5-inch display over Wi-Fi in a local environment",
         "colors":[
-          "#7890",
-          "#7890",
-          "#7890"
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
         ],
         "image":[
   
@@ -245,14 +245,14 @@
           "reviews": 16479,
           "stock":5,
           "company": "Kindle Edition",
-          "featured": true,
+          "featured": false,
           "display":true,
           "description":"With so many great resources on the web available for SMEs it's difficult to find the marketing solutions that will work. <br /><br />Sarah-Jane White has collated the best ones in this ebook for you to use as a guide, inspirational tool and if you just do one of the tips, once a week, you should increase your company's visibility both on and offline in no time!",
 
           "colors":[
-            "#7890",
-            "#7890",
-            "#7890"
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
           ],
           "image":[
     
@@ -304,14 +304,14 @@
             "reviews": 17479,
             "stock":5,
             "company": "Sony",
-            "featured": true,
+            "featured": false,
             "display":true,
             "description":"The matte black Sony Wf-1003 crossfade LP2 special edition from V-MODA include the gunmetal shield kit, an exoskeleton case with carabiner, Kevlar-reinforced SpeakEasy 1-button mic cable, a Kevlar-reinforced extended audio cable, a 1/4. adapter and a cleaning cloth. It can be used for audio playback, as well as for gaming or in VoIP applications.",
   
             "colors":[
-              "#7890",
-              "#7890",
-              "#7890"
+              "#ff0000",
+              "#000000",
+              "#CDD0D0"
             ],
             "image":[
       
@@ -368,9 +368,9 @@
               "description":"Unboxing experience was awesome. First experience felt its built and sound just perfect. Its for listeners who love bass so if u love bass in every type of music then this is just perfect. For Ghazals, ballads, country music etc this wouldnt be a perfect choice. This has a very effective 3D surrond stage and sound s superb for Rock, lounge, EDM, Rave and Trance. I wanted all rounder and expected this to do the job but after hearing i told myself will keep for the music its made for. Well done V Moda and Ferrari Video for getting this to us for a very decent price. Am sure these will get better after few weeks of burnin.",
     
               "colors":[
-                "#7890",
-                "#7890",
-                "#7890"
+                "#ff0000",
+                "#000000",
+                "#CDD0D0"
               ],
               "image":[
         
@@ -427,9 +427,9 @@
                 "description":"The iPhone 13 Pro has a 6.06 inch (154 mm) (marketed as 6.1-inch (15 cm)) OLED display with a resolution of 2532 × 1170 pixels (2.9 megapixels) at 460 PPI, while the iPhone 13 Pro Max has a 6.68 inch (170 mm) (marketed as 6.7-inch (17 cm)) OLED display with a resolution of 2778 × 1284 pixels (3.5 megapixels) at 458 PPI. Both models have the Super Retina XDR OLED display with improved typical brightness up to 1,000 nits from 800 nits, and max brightness up to 1,200 nits, and for the first time in an iPhone, a variable 10–120 Hz ProMotion display, which can also go as low as 10 Hz to preserve battery and the term was previously used on the iPad Pro (2nd Generation) and later models",
       
                 "colors":[
-                  "#7890",
-                  "#7890",
-                  "#7890"
+                  "#ff0000",
+                  "#000000",
+                  "#CDD0D0"
                 ],
                 "image":[
           
@@ -481,14 +481,14 @@
                   "reviews": 10909,
                   "stock":10,
                   "company": "Sony",
-                  "featured": true,
+                  "featured": false,
                   "display":true,
                   "description":"Absolute beast of a machine. Amazing auto focus and the focus peaking for manual focus really helps. The eye detection is something new for me. It seems to work only in AF-C mode and not the single shutter mode. Very useful to get tack sharp focus on eyes using fast primes wide open.Apart from photography I discovered it is really amazing for videography as well. You can get 30p 4k. Wish it was 60p for slight slo mo stuff. But you can get that in full HD. Image stabilization is great for photography. For videos with camera movements you need a gimbal or something like that.",
         
                   "colors":[
-                    "#7890",
-                    "#7890",
-                    "#7890"
+                    "#ff0000",
+                    "#000000",
+                    "#CDD0D0"
                   ],
                   "image":[
             
@@ -540,14 +540,14 @@
                     "reviews": 1089909,
                     "stock":30,
                     "company": "Apple",
-                    "featured": true,
+                    "featured": false,
                     "display":true,
                     "description":"The software is extremely smooth and stable. Battery life is good and not too exceptional. It’s certainly not as good as 13 Pro Max. The battery is currently lasting me 24 hours instead of 18 hours on my Android. I’d say the 3200mAh from Apple is comparable to a 5500mAh Android battery. The 48MP camera is sharp and fast. The dynamic island is extremely helpful in many situations that involve multitasking. I use it very frequently during calls. The screen is bright and looks very clear even in direct sunlight. Haptics are very unique and delightful. Face id is much easier than a fingerprint scanner. Gone are the days of wiping your fingers. The Safari password manager can save passwords for all sites and authenticate directly with Face Id. The size of the phone 6.1 inch is very comfortable for one hand use and one needn’t shuffle around the phone for one hand use like on 6.7 inch phones.Where Apple really shines is with the ecosystem. ",
           
                     "colors":[
-                      "#7890",
-                      "#7890",
-                      "#7890"
+                      "#ff0000",
+                      "#000000",
+                      "#CDD0D0"
                     ],
                     "image":[
               
@@ -599,14 +599,14 @@
                       "reviews": 169909,
                       "stock":80,
                       "company": "OnePlus",
-                      "featured": true,
+                      "featured": false,
                       "display":true,
                       "description":"the least expensive category offering from One-plus, there are some small evident points that will get noticed. First thing is the confusing placement of the power button (and hence the finger sensor). Daily handling of the mobile phone feels a bit annoying with fingers locking/un-locking the phone while you try to handle it and place it into Your pockets. Although this is not a big problem, it is still something to think about",
             
                       "colors":[
-                        "#7890",
-                        "#7890",
-                        "#7890"
+                        "#ff0000",
+                        "#000000",
+                        "#CDD0D0"
                       ],
                       "image":[
                 
@@ -658,14 +658,14 @@
                         "reviews": 18904,
                         "stock":20,
                         "company": "OnePlus",
-                        "featured": true,
+                        "featured": false,
                         "display":true,
                         "description":"Got this on Day 1 and the phone looks good. It has infinity edges and looks sleeker than my previous OnePlus 7. Attaching the unboxing video - the charger adapter is huge and cable is thicker than before. The camera is just fine nothing too exciting about it. Would comment once I use more. The cover provided by one plus isn't transparent this time primarily cos the back panel of the phone is Matt and not metallic shiny like before.",
               
                         "colors":[
-                          "#7890",
-                          "#7890",
-                          "#7890"
+                          "#ff0000",
+                          "#000000",
+                          "#CDD0D0"
                         ],
                         "image":[
                   
@@ -707,7 +707,722 @@
                             }
                   
                         ]
-                        }
+                        },
+                        {
+    
+                          "name":"boAt Stone 1200 ",
+                          "price":3999,
+                          "category": "HeadPhones",
+                          "stars":4.0,
+                          "reviews": 10904,
+                          "stock":4,
+                          "company": "Boat",
+                          "featured": false,
+                          "display":true,
+                          "description":"Super bass and sound quality and it's not about 14 watts it's around 20 watts output sound.. we can go for it compulsory without any thought. But buy it when it's price is below 3k. I have got this speaker at 2500 in republic sale. Please have patience to down the price .",
+                
+                          "colors":[
+                            "#ff0000",
+                            "#000000",
+                            "#CDD0D0"
+                          ],
+                          "image":[
+                    
+                            {
+                              "id": "randomid1",
+                              "width": 1080,
+                              "height": 650,
+                              "url": "https://m.media-amazon.com/images/I/71yc2BhuWRL._SX425_.jpg",
+                              "filename": "prod-1.png",
+                              "size": 1080,
+                              "type": "image/png"
+                              },
+                              {
+                              "id": "randomid2",
+                              "width": 1080,
+                              "height": 650,
+                              "url": "https://m.media-amazon.com/images/I/81W-EZYj9HL._SX425_.jpg",
+                              "filename": "prod-2.png",
+                              "size": 1080,
+                              "type": "image/png"
+                              },
+                              {
+                              "id": "randomid3",
+                              "width": 1080,
+                              "height": 650,
+                              "url": "https://m.media-amazon.com/images/I/81nQmv+4YZL._SX425_.jpg",
+                              "filename": "prod-3.png",
+                              "size": 1080,
+                              "type": "image/png"
+                              },
+                              {
+                              "id": "randomid4",
+                              "width": 1080,
+                              "height": 650,
+                              "url":"https://m.media-amazon.com/images/I/71txBtyPgVL._SX425_.jpg",
+                              "filename": "prod-4.png",
+                              "size": 1080,
+                              "type": "image/png"
+                              }
+                    
+                          ]
+                          },
+                          {
+    
+                            "name":"boAt Partypal 50 20W",
+                            "price":6499,
+                            "category": "HeadPhones",
+                            "stars":4.3,
+                            "reviews": 19004,
+                            "stock":24,
+                            "company": "Boat",
+                            "featured": false,
+                            "display":true,
+                            "description":"Got this on Day 1 and the phone looks good. It has infinity edges and looks sleeker than my previous OnePlus 7. Attaching the unboxing video - the charger adapter is huge and cable is thicker than before. The camera is just fine nothing too exciting about it. Would comment once I use more. The cover provided by one plus isn't transparent this time primarily cos the back panel of the phone is Matt and not metallic shiny like before.",
+                  
+                            "colors":[
+                              "#ff0000",
+                              "#000000",
+                              "#CDD0D0"
+                            ],
+                            "image":[
+                      
+                              {
+                                "id": "randomid1",
+                                "width": 1080,
+                                "height": 650,
+                                "url": "https://m.media-amazon.com/images/I/61bq0ILE5CL._SX425_.jpg",
+                                "filename": "prod-1.png",
+                                "size": 1080,
+                                "type": "image/png"
+                                },
+                                {
+                                "id": "randomid2",
+                                "width": 1080,
+                                "height": 650,
+                                "url": "https://m.media-amazon.com/images/I/719a4kP4KLL._SX425_.jpg",
+                                "filename": "prod-2.png",
+                                "size": 1080,
+                                "type": "image/png"
+                                },
+                                {
+                                "id": "randomid3",
+                                "width": 1080,
+                                "height": 650,
+                                "url": "https://m.media-amazon.com/images/I/6115OzTIyfL._SX425_.jpg",
+                                "filename": "prod-3.png",
+                                "size": 1080,
+                                "type": "image/png"
+                                },
+                                {
+                                "id": "randomid4",
+                                "width": 1080,
+                                "height": 650,
+                                "url":"https://m.media-amazon.com/images/I/712W3p5nk3L._SX425_.jpg",
+                                "filename": "prod-4.png",
+                                "size": 1080,
+                                "type": "image/png"
+                                }
+                      
+                            ]
+                            }, 
+                            {
+    
+                              "name":"Titan",
+                              "price":2499,
+                              "category": "Accessories",
+                              "stars":4.5,
+                              "reviews": 19004,
+                              "stock":5,
+                              "company": "Titan",
+                              "featured": true,
+                              "display":true,
+                              "description":"one of India's leading watch brands that brought about a paradigm shift in the Indian watch market, with the quartz technology and international styling. The brand Titan is committed to offering its consumers watches that represent the compass of their imagination.",
+                    
+                              "colors":[
+                                "#ff0000",
+                                "#000000",
+                                "#CDD0D0"
+                              ],
+                              "image":[
+                        
+                                {
+                                  "id": "randomid1",
+                                  "width": 1080,
+                                  "height": 650,
+                                  "url": "https://m.media-amazon.com/images/I/71y9G0yTjpL._UX522_.jpg",
+                                  "filename": "prod-1.png",
+                                  "size": 1080,
+                                  "type": "image/png"
+                                  },
+                                  {
+                                  "id": "randomid2",
+                                  "width": 1080,
+                                  "height": 650,
+                                  "url": "https://m.media-amazon.com/images/I/71Nzna0OtNL._UX385_.jpg",
+                                  "filename": "prod-2.png",
+                                  "size": 1080,
+                                  "type": "image/png"
+                                  },
+                                  {
+                                  "id": "randomid3",
+                                  "width": 1080,
+                                  "height": 650,
+                                  "url": "https://m.media-amazon.com/images/I/51tAxbrEiOL._UX385_.jpg",
+                                  "filename": "prod-3.png",
+                                  "size": 1080,
+                                  "type": "image/png"
+                                  },
+                                  {
+                                  "id": "randomid4",
+                                  "width": 1080,
+                                  "height": 650,
+                                  "url":"https://m.media-amazon.com/images/I/61lqvZZRtZL._UX385_.jpg",
+                                  "filename": "prod-4.png",
+                                  "size": 1080,
+                                  "type": "image/png"
+                                  }
+                        
+                              ]
+                              },
+                              {
+    
+                                "name":"boAt wAtch",
+                                "price":1499,
+                                "category": "Accessories",
+                                "stars":3.3,
+                                "reviews": 8900,
+                                "stock":32,
+                                "company": "Boat",
+                                "featured": false,
+                                "display":true,
+                                "description":"Battery is good, last for 3 _4days if u r using it for whole day.Screen is also good and user interface is smooth. Look wise its a nice watch at this price point. this watch doesn't shows total calories burned, it shows calories burned for individual activities rather showing total cal. On front screen. This is the major con. Bcz, always u need to go in activity records to sum up ur total calories burned.",
+                      
+                                "colors":[
+                                  "#ff0000",
+                                  "#000000",
+                                  "#CDD0D0"
+                                ],
+                                "image":[
+                          
+                                  {
+                                    "id": "randomid1",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url": "https://m.media-amazon.com/images/I/614ZC2waBCL._SX522_.jpg",
+                                    "filename": "prod-1.png",
+                                    "size": 1080,
+                                    "type": "image/png"
+                                    },
+                                    {
+                                    "id": "randomid2",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url": "https://m.media-amazon.com/images/I/615p+vSxZ4L._SX522_.jpg",
+                                    "filename": "prod-2.png",
+                                    "size": 1080,
+                                    "type": "image/png"
+                                    },
+                                    {
+                                    "id": "randomid3",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url": "https://m.media-amazon.com/images/I/613wIFf3z8L._SX522_.jpg",
+                                    "filename": "prod-3.png",
+                                    "size": 1080,
+                                    "type": "image/png"
+                                    },
+                                    {
+                                    "id": "randomid4",
+                                    "width": 1080,
+                                    "height": 650,
+                                    "url":"https://m.media-amazon.com/images/I/715oHq5bJ7L._SX522_.jpg",
+                                    "filename": "prod-4.png",
+                                    "size": 1080,
+                                    "type": "image/png"
+                                    }
+                          
+                                ]
+                                },
+                                {
+    
+                                  "name":"Adidas Mens M Gg Big Bos Hd Sweatshirt",
+                                  "price":4499,
+                                  "category": "Accessories",
+                                  "stars":4.3,
+                                  "reviews": 38900,
+                                  "stock":72,
+                                  "company": "Adidas",
+                                  "featured": true,
+                                  "display":true,
+                                  "description":"Adidas sells a range of clothing items, varying from men's and women's t-shirts, jackets, hoodies, pants and leggings. The adidas brand offers apparel for every sport, every fashion, every style, whether you are an athlete or fashionista.",
+                        
+                                  "colors":[
+                                    "#ff0000",
+                                    "#000000",
+                                    "#CDD0D0"
+                                  ],
+                                  "image":[
+                            
+                                    {
+                                      "id": "randomid1",
+                                      "width": 1080,
+                                      "height": 650,
+                                      "url": "https://m.media-amazon.com/images/I/81jprSCRIbL._UX679_.jpg",
+                                      "filename": "prod-1.png",
+                                      "size": 1080,
+                                      "type": "image/png"
+                                      },
+                                      {
+                                      "id": "randomid2",
+                                      "width": 1080,
+                                      "height": 650,
+                                      "url": "https://m.media-amazon.com/images/I/71j4x4ie+zL._UX679_.jpg",
+                                      "filename": "prod-2.png",
+                                      "size": 1080,
+                                      "type": "image/png"
+                                      },
+                                      {
+                                      "id": "randomid3",
+                                      "width": 1080,
+                                      "height": 650,
+                                      "url": "https://m.media-amazon.com/images/I/61BbXVU5GtL._UX679_.jpg",
+                                      "filename": "prod-3.png",
+                                      "size": 1080,
+                                      "type": "image/png"
+                                      },
+                                      {
+                                      "id": "randomid4",
+                                      "width": 1080,
+                                      "height": 650,
+                                      "url":"https://m.media-amazon.com/images/I/71dx2uQfMlL._UX679_.jpg",
+                                      "filename": "prod-4.png",
+                                      "size": 1080,
+                                      "type": "image/png"
+                                      }
+                            
+                                  ]
+                                  },
+                                  {
+    
+                                    "name":"Adidas Pant",
+                                    "price":1999,
+                                    "category": "Accessories",
+                                    "stars":4.2,
+                                    "reviews": 89600,
+                                    "stock":132,
+                                    "company": "Adidas",
+                                    "featured": false,
+                                    "display":true,
+                                    "description":"Quality casual wear is offered by Misti in the widest selection, making it simple to select, at accessible rates, and with the service support that makes shopping enjoyable. For the highest quality and comfort, Misti t-shirts are manufactured from premium cotton bio-washed fabrics. To make sure that the printed t-shirts continue to look brand-new after numerous washings, different prints are used. In order to assist you in creating fascinating, novel experiences in your life, Misti never stops inventing! Men's clothing items under our brand  include sweatshirts, waistcoats, polo shirts, and casual t-shirts. We provide a range of top-notch items. Both you and I never compromise on quality.",
+                          
+                                    "colors":[
+                                      "#ff0000",
+                                      "#000000",
+                                      "#CDD0D0"
+                                    ],
+                                    "image":[
+                              
+                                      {
+                                        "id": "randomid1",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "https://m.media-amazon.com/images/I/71U7msqnRXS._UY879_.jpg",
+                                        "filename": "prod-1.png",
+                                        "size": 1080,
+                                        "type": "image/png"
+                                        },
+                                        {
+                                        "id": "randomid2",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "https://m.media-amazon.com/images/I/711t+Vn7dES._UY606_.jpg",
+                                        "filename": "prod-2.png",
+                                        "size": 1080,
+                                        "type": "image/png"
+                                        },
+                                        {
+                                        "id": "randomid3",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url": "https://m.media-amazon.com/images/I/71VnhNANJ1S._UY606_.jpg",
+                                        "filename": "prod-3.png",
+                                        "size": 1080,
+                                        "type": "image/png"
+                                        },
+                                        {
+                                        "id": "randomid4",
+                                        "width": 1080,
+                                        "height": 650,
+                                        "url":"https://m.media-amazon.com/images/I/51tUyIFJaVL._UX679_.jpg",
+                                        "filename": "prod-4.png",
+                                        "size": 1080,
+                                        "type": "image/png"
+                                        }
+                              
+                                    ]
+                                    },
+                                    {
+    
+                                      "name":"Sports Tracksuit",
+                                      "price":4499,
+                                      "category": "Accessories",
+                                      "stars":4.3,
+                                      "reviews": 89980,
+                                      "stock":2,
+                                      "company": "Adidas",
+                                      "featured": false,
+                                      "display":true,
+                                      "description":"PRIME GREEN: made with recycled polyester to reduce environmental impacts. It is part of our ambition to use 100 % recycled polyester in every possible product by 2024 Trims & Details: Two side pockets Logo execution & placement: Small adidas logo on left leg Logo execution & placement: Small adidas logo on left side chest Fit: Regular",
+                            
+                                      "colors":[
+                                        "#ff0000",
+                                        "#000000",
+                                        "#CDD0D0"
+                                      ],
+                                      "image":[
+                                
+                                        {
+                                          "id": "randomid1",
+                                          "width": 1080,
+                                          "height": 650,
+                                          "url": "https://m.media-amazon.com/images/I/41aVdYVsuSL._UX522_.jpg",
+                                          "filename": "prod-1.png",
+                                          "size": 1080,
+                                          "type": "image/png"
+                                          },
+                                          {
+                                          "id": "randomid2",
+                                          "width": 1080,
+                                          "height": 650,
+                                          "url": "https://m.media-amazon.com/images/I/61k-2WOphoL._UY445_.jpg",
+                                          "filename": "prod-2.png",
+                                          "size": 1080,
+                                          "type": "image/png"
+                                          },
+                                          {
+                                          "id": "randomid3",
+                                          "width": 1080,
+                                          "height": 650,
+                                          "url": "https://m.media-amazon.com/images/I/61cN9ahiNZL._UY445_.jpg",
+                                          "filename": "prod-3.png",
+                                          "size": 1080,
+                                          "type": "image/png"
+                                          },
+                                          {
+                                          "id": "randomid4",
+                                          "width": 1080,
+                                          "height": 650,
+                                          "url":"https://m.media-amazon.com/images/I/71Vs+pp2G7L._UY445_.jpg",
+                                          "filename": "prod-4.png",
+                                          "size": 1080,
+                                          "type": "image/png"
+                                          }
+                                
+                                      ]
+                                      },
+                                      {
+    
+                                        "name":"Adidas Men's Response Super Running Shoe",
+                                        "price":5499,
+                                        "category": "Accessories",
+                                        "stars":4.3,
+                                        "reviews": 85900,
+                                        "stock":32,
+                                        "company": "Adidas",
+                                        "featured": false,
+                                        "display":true,
+                                        "description":"Be active every day of the year. These men's running shoes let you run how you want and when you want. Response foam combines with boost to provide energy return and comfort that goes the distance. The mesh upper is made with recycled materials to highlight adidas' commitment to help end plastic waste.",
+                              
+                                        "colors":[
+                                          "#ff0000",
+                                          "#000000",
+                                          "#CDD0D0"
+                                        ],
+                                        "image":[
+                                  
+                                          {
+                                            "id": "randomid1",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url": "https://m.media-amazon.com/images/I/71JyO1bFm1L._UX675_.jpg",
+                                            "filename": "prod-1.png",
+                                            "size": 1080,
+                                            "type": "image/png"
+                                            },
+                                            {
+                                            "id": "randomid2",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url": "https://m.media-amazon.com/images/I/71z-creNWKL._UY625_.jpg",
+                                            "filename": "prod-2.png",
+                                            "size": 1080,
+                                            "type": "image/png"
+                                            },
+                                            {
+                                            "id": "randomid3",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url": "https://m.media-amazon.com/images/I/71WWdwnzeOL._UX535_.jpg",
+                                            "filename": "prod-3.png",
+                                            "size": 1080,
+                                            "type": "image/png"
+                                            },
+                                            {
+                                            "id": "randomid4",
+                                            "width": 1080,
+                                            "height": 650,
+                                            "url":"https://m.media-amazon.com/images/I/81C0WYzqOZL._UX535_.jpg",
+                                            "filename": "prod-4.png",
+                                            "size": 1080,
+                                            "type": "image/png"
+                                            }
+                                  
+                                        ]
+                                        },
+                                        {
+    
+                                          "name":"Adidas Men's Adivat M Running Shoes",
+                                          "price":6499,
+                                          "category": "Accessories",
+                                          "stars":4.9,
+                                          "reviews": 58800,
+                                          "stock":32,
+                                          "company": "Adidas",
+                                          "featured": false,
+                                          "display":true,
+                                          "description":"Dual tone light weight mesh & synthetic with recycled fibers with unique performance properties such as soft mesh with superior moisture and high durability. Unique design of counters & deco stitch on the vamp which makes the shoe stand out. Upper: Mesh upper for lightweight and breathability Midsole: lightstrike IMEVA midsole with visible adiprene providing protection from harmful impact forces",
+                                
+                                          "colors":[
+                                            "#ff0000",
+                                            "#000000",
+                                            "#CDD0D0"
+                                          ],
+                                          "image":[
+                                    
+                                            {
+                                              "id": "randomid1",
+                                              "width": 1080,
+                                              "height": 650,
+                                              "url": "https://m.media-amazon.com/images/I/71kfO4VXDFL._UX675_.jpg",
+                                              "filename": "prod-1.png",
+                                              "size": 1080,
+                                              "type": "image/png"
+                                              },
+                                              {
+                                              "id": "randomid2",
+                                              "width": 1080,
+                                              "height": 650,
+                                              "url": "https://m.media-amazon.com/images/I/81VPge1OP2L._UX535_.jpg",
+                                              "filename": "prod-2.png",
+                                              "size": 1080,
+                                              "type": "image/png"
+                                              },
+                                              {
+                                              "id": "randomid3",
+                                              "width": 1080,
+                                              "height": 650,
+                                              "url": "https://m.media-amazon.com/images/I/71+IYtKS7bL._UX535_.jpg",
+                                              "filename": "prod-3.png",
+                                              "size": 1080,
+                                              "type": "image/png"
+                                              },
+                                              {
+                                              "id": "randomid4",
+                                              "width": 1080,
+                                              "height": 650,
+                                              "url":"https://m.media-amazon.com/images/I/71xv06kn2ML._UX535_.jpg",
+                                              "filename": "prod-4.png",
+                                              "size": 1080,
+                                              "type": "image/png"
+                                              }
+                                    
+                                          ]
+                                          },
+                                          {
+    
+                                            "name":"Programming with C++ | 8th Edition",
+                                            "price":1099,
+                                            "category": "E-Books",
+                                            "stars":4.3,
+                                            "reviews": 48800,
+                                            "stock":32,
+                                            "company": "Kindle Edition",
+                                            "featured": false,
+                                            "display":true,
+                                            "description":"E Balagurusamy, former Vice Chancellor, Anna University, Chennai, and Member, Union Public Service Commission, New Delhi, is currently the Chairman of EBG Foundation, Coimbatore. He is a teacher, trainer, and consultant in the fields of Information Technology and Management. He holds an ME (Hons) in Electrical Engineering and PhD in Systems Engineering from the Indian Institute of Technology, Roorkee. His areas of interest include Object-Oriented Software Engineering, E-Governance, Technology Management, Business Process Re-engineering, and Total Quality Management.",
+                                  
+                                            "colors":[
+                                              "#ff0000",
+                                              "#000000",
+                                              "#CDD0D0"
+                                            ],
+                                            "image":[
+                                      
+                                              {
+                                                "id": "randomid1",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url": "https://m.media-amazon.com/images/I/5197qo6Q1GL._AC_SF640,640_.jpg",
+                                                "filename": "prod-1.png",
+                                                "size": 1080,
+                                                "type": "image/png"
+                                                },
+                                                {
+                                                "id": "randomid2",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url": "https://m.media-amazon.com/images/I/71OnWeLX+lL._AC_SF640,640_.jpg",
+                                                "filename": "prod-2.png",
+                                                "size": 1080,
+                                                "type": "image/png"
+                                                },
+                                                {
+                                                "id": "randomid3",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url": "https://m.media-amazon.com/images/I/81omg4hWx8L._AC_SF640,640_.jpg",
+                                                "filename": "prod-3.png",
+                                                "size": 1080,
+                                                "type": "image/png"
+                                                },
+                                                {
+                                                "id": "randomid4",
+                                                "width": 1080,
+                                                "height": 650,
+                                                "url":"https://m.media-amazon.com/images/I/81WfBL3mCEL._AC_SF640,640_.jpg",
+                                                "filename": "prod-4.png",
+                                                "size": 1080,
+                                                "type": "image/png"
+                                                }
+                                      
+                                            ]
+                                            },
+                                            {
+    
+                                              "name":"Programming with Java | 6th Edition",
+                                              "price":1499,
+                                              "category": "E-Books",
+                                              "stars":4.9,
+                                              "reviews": 800,
+                                              "stock":12,
+                                              "company": "Kindle Edition",
+                                              "featured": false,
+                                              "display":true,
+                                              "description":"It has a very interesting book for core and advance java if wish to learn both at the same time then this book can save your time you can choose this book and what most i like about this book that this have a many practical program for better understanding and for issues some points are going too tough for understand there point .",
+                                    
+                                              "colors":[
+                                                "#ff0000",
+                                                "#000000",
+                                                "#CDD0D0"
+                                              ],
+                                              "image":[
+                                        
+                                                {
+                                                  "id": "randomid1",
+                                                  "width": 1080,
+                                                  "height": 650,
+                                                  "url": "https://m.media-amazon.com/images/I/51k5NgL+B+L._AC_SF640,640_.jpg",
+                                                  "filename": "prod-1.png",
+                                                  "size": 1080,
+                                                  "type": "image/png"
+                                                  },
+                                                  {
+                                                  "id": "randomid2",
+                                                  "width": 1080,
+                                                  "height": 650,
+                                                  "url": "https://m.media-amazon.com/images/I/41Fji-VVHYL._SX380_BO1,204,203,200_.jpg",
+                                                  "filename": "prod-2.png",
+                                                  "size": 1080,
+                                                  "type": "image/png"
+                                                  },
+                                                  {
+                                                  "id": "randomid3",
+                                                  "width": 1080,
+                                                  "height": 650,
+                                                  "url": "https://m.media-amazon.com/images/I/81Z1zk3v9YL._AC_SF640,640_.jpg",
+                                                  "filename": "prod-3.png",
+                                                  "size": 1080,
+                                                  "type": "image/png"
+                                                  },
+                                                  {
+                                                  "id": "randomid4",
+                                                  "width": 1080,
+                                                  "height": 650,
+                                                  "url":"https://m.media-amazon.com/images/I/41mVl7GQNGL._AC_SF640,640_.jpg",
+                                                  "filename": "prod-4.png",
+                                                  "size": 1080,
+                                                  "type": "image/png"
+                                                  }
+                                        
+                                              ]
+                                              },
+                                              {
+    
+                                                "name":"pYTHON programming",
+                                                "price":1499,
+                                                "category": "E-Books",
+                                                "stars":4.8,
+                                                "reviews": 5850,
+                                                "stock":32,
+                                                "company": "Kindle Edition",
+                                                "featured": false,
+                                                "display":true,
+                                                "description":"Dimitrios Xanthidis holds a PhD in Information Systems from University College London. For the past 25 years, he has been teaching computer science subjects with a focus on programming and software development, and data structures and databases in various tertiary education institutions. Currently, he is working in Higher Colleges of Technology in Dubai, U.A.E. Dimitrios’ research interests and work revolve around the topics of data science, machine learning/deep learning, virtual/augmented reality, and emerging technologies.",
+                                      
+                                                "colors":[
+                                                  "#ff0000",
+                                                  "#000000",
+                                                  "#CDD0D0"
+                                                ],
+                                                "image":[
+                                          
+                                                  {
+                                                    "id": "randomid1",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "https://m.media-amazon.com/images/I/41l7+EXa50L._SX330_BO1,204,203,200_.jpg",
+                                                    "filename": "prod-1.png",
+                                                    "size": 1080,
+                                                    "type": "image/png"
+                                                    },
+                                                    {
+                                                    "id": "randomid2",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "https://m.media-amazon.com/images/I/51I0DgTejwL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+                                                    "filename": "prod-2.png",
+                                                    "size": 1080,
+                                                    "type": "image/png"
+                                                    },
+                                                    {
+                                                    "id": "randomid3",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url": "https://m.media-amazon.com/images/I/811K9eoEKQL._AC_SF640,640_.jpg",
+                                                    "filename": "prod-3.png",
+                                                    "size": 1080,
+                                                    "type": "image/png"
+                                                    },
+                                                    {
+                                                    "id": "randomid4",
+                                                    "width": 1080,
+                                                    "height": 650,
+                                                    "url":"https://m.media-amazon.com/images/I/71H0XTjr7dL._AC_SF640,640_.jpg",
+                                                    "filename": "prod-4.png",
+                                                    "size": 1080,
+                                                    "type": "image/png"
+                                                    }
+                                          
+                                                ]
+                                                }
+                  
+            
+                
+          
+              
+        
+            
       
       
   ]
